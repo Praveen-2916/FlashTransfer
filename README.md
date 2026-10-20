@@ -6,6 +6,10 @@ Windows file explorer using MTP (Media transfer protocol) for transferring files
 
 To use FlashTransfer, it is necessary that Android SDK Platform-Tools (ADB) is installed in the PC and USB debugging is enabled from the developer options in the android phone.
 
+## Screenshot
+
+![FlashTransfer application showing file browsing, transfer progress, and transfer speed](screenshots/flashtransfer.png)
+
 ## Features
 
 - Browse files and folders on your Android phone.
