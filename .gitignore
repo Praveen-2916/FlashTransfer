@@ -1,0 +1,29 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Pytest cache (tests have been deleted, but clean up any leftovers)
+.pytest_cache/
+
+# IDE and editor settings
+.vscode/
+.idea/
+
+# Python build and distribution files
+build/
+dist/
+*.egg-info/
+
+# Environment variables and secrets
+.env
+.env.*
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+Desktop.ini
