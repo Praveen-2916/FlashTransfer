@@ -72,7 +72,7 @@ For a file size of 2.34 GB, Windows MTP took 91 seconds while FlashTransfer took
 
 For a file size of 8.24 GB, Windows MTP took 316 seconds while FlashTransfer took just 230 seconds
 
-In these tests, FlashTransfer transferred both files faster than MTP. The results are from my own setup, and actual speeds may vary depending on the device, USB connection, and destination drive.
+Across my tests, **FlashTransfer reduced file transfer time by approximately 27% compared to Windows File Explorer's MTP transfer.** Actual performance may vary depending on the device, USB connection, and destination drive.
 
 ## Project structure
 
